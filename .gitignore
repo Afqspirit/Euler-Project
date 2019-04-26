@@ -1,6 +1,6 @@
 #Trash
-.idea
-.iml
+.idea/*
+*.iml
 
 
 # Compiled class file
